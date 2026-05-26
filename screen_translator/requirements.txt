@@ -1,0 +1,20 @@
+# Screen Translator — Daftar Library yang Dibutuhkan
+# Install semua sekaligus dengan: pip install -r requirements.txt
+
+# UI modern ala Windows 11
+customtkinter>=5.2.0
+
+# Shortcut keyboard global
+keyboard>=0.13.5
+
+# Screenshot dan manipulasi gambar
+Pillow>=10.0.0
+
+# OCR (membaca teks dari gambar)
+pytesseract>=0.3.10
+
+# Terjemahan via Google Translate
+deep-translator>=1.11.4
+
+# Ikon system tray
+pystray>=0.19.5

@@ -1,0 +1,8 @@
+{
+    "target_language": "id",
+    "font_size": 10,
+    "bg_color": "#1e1e1e",
+    "text_color": "#ffffff",
+    "bg_opacity": 0.92,
+    "hotkey": "ctrl+alt+z"
+}
